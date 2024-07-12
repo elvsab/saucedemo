@@ -1,0 +1,1638 @@
+[2024-07-12T21:54:19.858] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:19.866] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:54:20.196] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:20.198] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T21:54:20.198] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:54:20.231] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:20.231] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:54:20.371] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:20.372] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T21:54:20.372] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:54:22.029] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:22.031] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T21:54:22.266] [INFO] default - Page title: Swag Labs
+[2024-07-12T21:54:22.267] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T21:54:22.917] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:22.920] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:54:23.199] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:23.200] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T21:54:23.200] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T21:54:23.236] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:23.236] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:54:23.384] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:23.384] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T21:54:23.385] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T21:54:24.011] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:24.013] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:54:24.177] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:24.183] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:54:24.311] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:24.312] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T21:54:24.312] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T21:54:24.340] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:24.340] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:54:24.479] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:24.479] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T21:54:24.479] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:54:24.517] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:24.518] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:54:24.529] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:24.530] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T21:54:24.530] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T21:54:24.650] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:54:24.651] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T21:54:24.651] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:54:25.308] [INFO] default - Navigated to Login Page
+[2024-07-12T21:54:25.312] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T21:54:25.561] [INFO] default - Page title: Swag Labs
+[2024-07-12T21:54:25.561] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T21:57:05.314] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:05.321] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:05.377] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:05.321] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:09.546] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:57:09.886] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:09.887] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:57:09.888] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T21:57:09.888] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:7)
+[2024-07-12T21:57:09.889] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:09.928] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:57:09.994] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:57:10.252] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:10.253] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T21:57:10.253] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:7)
+[2024-07-12T21:57:10.341] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:10.346] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T21:57:10.388] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:10.388] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T21:57:10.388] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:7)
+[2024-07-12T21:57:10.389] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:10.422] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:57:10.478] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:10.479] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T21:57:10.479] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:7)
+[2024-07-12T21:57:10.480] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:10.521] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:57:10.635] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:10.636] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T21:57:10.636] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:7)
+[2024-07-12T21:57:10.671] [INFO] default - Page title: Swag Labs
+[2024-07-12T21:57:10.671] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T21:57:10.776] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:10.776] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T21:57:10.776] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:7)
+[2024-07-12T21:57:11.456] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:57:11.707] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:11.708] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T21:57:11.708] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:7)
+[2024-07-12T21:57:11.709] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:11.734] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:57:11.879] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:57:11.880] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T21:57:11.880] [ERROR] default - ReferenceError: assert is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:128:7)
+[2024-07-12T21:57:12.386] [INFO] default - Navigated to Login Page
+[2024-07-12T21:57:12.389] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T21:57:12.611] [INFO] default - Page title: Swag Labs
+[2024-07-12T21:57:12.612] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T21:59:17.486] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:17.491] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:17.496] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:17.501] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:20.123] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:59:20.437] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:20.439] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T21:59:20.440] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T21:59:20.442] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:20.470] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:59:20.642] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:20.642] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T21:59:20.643] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T21:59:23.017] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:59:23.216] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:23.217] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T21:59:23.289] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:23.289] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T21:59:23.289] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:59:23.292] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:23.331] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:59:23.466] [INFO] default - Page title: Swag Labs
+[2024-07-12T21:59:23.467] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T21:59:23.508] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:23.508] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T21:59:23.508] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:59:23.906] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:23.909] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T21:59:24.017] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:59:24.191] [INFO] default - Page title: Swag Labs
+[2024-07-12T21:59:24.192] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T21:59:24.316] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:24.316] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T21:59:24.316] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:59:24.318] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:24.344] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:59:24.470] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:24.471] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T21:59:24.471] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:107:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: '=='
+}
+[2024-07-12T21:59:26.461] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T21:59:26.737] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:26.737] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T21:59:26.737] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T21:59:26.739] [INFO] default - Navigated to Login Page
+[2024-07-12T21:59:26.790] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T21:59:26.942] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T21:59:26.942] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T21:59:26.942] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:14) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T22:03:35.938] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:35.940] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:35.991] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:36.014] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:39.868] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:03:39.886] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:03:40.210] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:40.210] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:40.211] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:03:40.211] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T22:03:40.211] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:130:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:03:40.211] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:109:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:03:40.213] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:40.213] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:40.272] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:03:40.273] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:03:40.452] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:40.452] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T22:03:40.452] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:109:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:03:40.508] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:03:40.520] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:40.520] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:03:40.520] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:130:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:03:40.811] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:40.812] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:03:40.812] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:130:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:03:40.814] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:40.842] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:03:40.882] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:03:41.005] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:41.005] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:03:41.005] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:130:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:03:41.145] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:41.146] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T22:03:41.146] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:109:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:03:41.148] [INFO] default - Navigated to Login Page
+[2024-07-12T22:03:41.174] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:03:41.312] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:03:41.313] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T22:03:41.313] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:109:16) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:07:50.074] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:50.074] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:50.074] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:50.089] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:50.092] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:50.098] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:53.343] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:07:53.645] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:07:53.648] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T22:07:53.648] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:108:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:07:53.651] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:53.678] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:07:53.843] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:07:53.843] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T22:07:53.843] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:108:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:07:54.438] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:07:54.702] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:07:54.702] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:07:55.191] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:07:55.330] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:07:55.483] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:07:55.484] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:07:55.484] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:07:55.486] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:55.516] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:07:55.595] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:07:55.595] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:07:55.629] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:07:55.699] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:07:55.699] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:07:55.700] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:07:55.903] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:07:55.904] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T22:07:55.904] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:108:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:07:55.906] [INFO] default - Navigated to Login Page
+[2024-07-12T22:07:55.939] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:07:56.072] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:07:56.073] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T22:07:56.073] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:108:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:08:00.936] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:08:01.212] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:08:01.213] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:08:01.213] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:08:01.215] [INFO] default - Navigated to Login Page
+[2024-07-12T22:08:01.246] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:08:01.467] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:08:01.467] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:08:01.467] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:129:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:12:14.182] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:14.184] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:14.201] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:14.208] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:14.255] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:14.301] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:17.422] [INFO] default - Testing with Username: test_user, Password: 
+[2024-07-12T22:12:17.690] [INFO] default - Error message: Epic sadface: Password is required
+[2024-07-12T22:12:17.691] [INFO] default - Test passed: Test Login form with empty password - UC-2 - Username: test_user, Password: 
+[2024-07-12T22:12:17.692] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:17.724] [INFO] default - Testing with Username: another_user, Password: 
+[2024-07-12T22:12:17.757] [INFO] default - Testing with Username: , Password: test_password
+[2024-07-12T22:12:17.856] [INFO] default - Error message: Epic sadface: Password is required
+[2024-07-12T22:12:17.856] [INFO] default - Test passed: Test Login form with empty password - UC-2 - Username: another_user, Password: 
+[2024-07-12T22:12:18.009] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:12:18.009] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: test_password
+[2024-07-12T22:12:18.010] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:18.046] [INFO] default - Testing with Username: , Password: another_password
+[2024-07-12T22:12:18.169] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:12:18.169] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: another_password
+[2024-07-12T22:12:18.910] [INFO] default - Testing with Username: , Password: test_password
+[2024-07-12T22:12:19.111] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:12:19.111] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: test_password
+[2024-07-12T22:12:19.112] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:19.139] [INFO] default - Testing with Username: , Password: another_password
+[2024-07-12T22:12:19.254] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:12:19.254] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: another_password
+[2024-07-12T22:12:19.559] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:12:19.812] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:12:19.813] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:12:20.636] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:12:20.856] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:12:20.856] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:12:21.466] [INFO] default - Testing with Username: test_user, Password: 
+[2024-07-12T22:12:21.682] [INFO] default - Error message: Epic sadface: Password is required
+[2024-07-12T22:12:21.683] [INFO] default - Test passed: Test Login form with empty password - UC-2 - Username: test_user, Password: 
+[2024-07-12T22:12:21.683] [INFO] default - Navigated to Login Page
+[2024-07-12T22:12:21.714] [INFO] default - Testing with Username: another_user, Password: 
+[2024-07-12T22:12:21.820] [INFO] default - Error message: Epic sadface: Password is required
+[2024-07-12T22:12:21.820] [INFO] default - Test passed: Test Login form with empty password - UC-2 - Username: another_user, Password: 
+[2024-07-12T22:27:25.667] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:25.670] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:25.869] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:26.538] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:26.538] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:26.570] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:28.285] [INFO] default - Testing with Username: , Password: test_password
+[2024-07-12T22:27:28.564] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:27:28.564] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: test_password
+[2024-07-12T22:27:28.565] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:28.611] [INFO] default - Testing with Username: , Password: another_password
+[2024-07-12T22:27:28.722] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:27:28.722] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: another_password
+[2024-07-12T22:27:29.556] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:27:29.808] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:27:29.809] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:27:31.751] [INFO] default - Testing with Username: , Password: test_password
+[2024-07-12T22:27:31.911] [INFO] default - Testing with Username: test_user, Initial Password: initial_password
+[2024-07-12T22:27:32.001] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:27:32.001] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: test_password
+[2024-07-12T22:27:32.002] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:32.034] [INFO] default - Testing with Username: , Password: another_password
+[2024-07-12T22:27:32.161] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:27:32.161] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: another_password
+[2024-07-12T22:27:32.193] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:27:32.196] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: initial_password
+[2024-07-12T22:27:32.196] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:31:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:27:32.198] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:32.235] [INFO] default - Testing with Username: another_user, Initial Password: initial_password
+[2024-07-12T22:27:32.408] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:27:32.408] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: initial_password
+[2024-07-12T22:27:32.408] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:31:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:27:32.994] [INFO] default - Testing with Username: test_user, Initial Password: initial_password
+[2024-07-12T22:27:33.245] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:27:33.246] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: initial_password
+[2024-07-12T22:27:33.246] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:31:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:27:33.249] [INFO] default - Navigated to Login Page
+[2024-07-12T22:27:33.282] [INFO] default - Testing with Username: another_user, Initial Password: initial_password
+[2024-07-12T22:27:33.419] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:27:33.424] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:27:33.425] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: initial_password
+[2024-07-12T22:27:33.425] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:31:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:27:33.652] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:27:33.652] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:29:14.756] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:14.761] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:14.763] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:15.064] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:15.065] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:15.138] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:20.115] [INFO] default - Testing with Username: , Password: test_password
+[2024-07-12T22:29:20.236] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:29:20.403] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:29:20.404] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: test_password
+[2024-07-12T22:29:20.405] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:20.445] [INFO] default - Testing with Username: , Password: another_password
+[2024-07-12T22:29:20.518] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:29:20.518] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:29:20.608] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:29:20.608] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: another_password
+[2024-07-12T22:29:21.279] [INFO] default - Testing with Username: test_user, Initial Password: initial_password
+[2024-07-12T22:29:21.480] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:29:21.513] [INFO] default - Password after clearing: 
+[2024-07-12T22:29:21.567] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:29:21.568] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: initial_password
+[2024-07-12T22:29:21.568] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:29:21.570] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:21.605] [INFO] default - Testing with Username: another_user, Initial Password: initial_password
+[2024-07-12T22:29:21.691] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:29:21.715] [INFO] default - Password after clearing: 
+[2024-07-12T22:29:21.747] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:29:21.747] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: initial_password
+[2024-07-12T22:29:21.747] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:29:22.399] [INFO] default - Testing with Username: , Password: test_password
+[2024-07-12T22:29:22.628] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:29:22.628] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: test_password
+[2024-07-12T22:29:22.628] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:22.662] [INFO] default - Testing with Username: , Password: another_password
+[2024-07-12T22:29:22.763] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:29:22.763] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: , Password: another_password
+[2024-07-12T22:29:23.511] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:29:23.758] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:29:23.758] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:29:28.000] [INFO] default - Testing with Username: test_user, Initial Password: initial_password
+[2024-07-12T22:29:28.198] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:29:28.228] [INFO] default - Password after clearing: 
+[2024-07-12T22:29:28.273] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:29:28.273] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: initial_password
+[2024-07-12T22:29:28.274] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:29:28.276] [INFO] default - Navigated to Login Page
+[2024-07-12T22:29:28.301] [INFO] default - Testing with Username: another_user, Initial Password: initial_password
+[2024-07-12T22:29:28.386] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:29:28.411] [INFO] default - Password after clearing: 
+[2024-07-12T22:29:28.442] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:29:28.442] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: initial_password
+[2024-07-12T22:29:28.442] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:01.780] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:01.781] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:01.788] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:02.069] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:02.077] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:02.076] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:03.511] [INFO] default - Testing with Username: test_user, Initial Password: initial_password
+[2024-07-12T22:32:06.141] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:32:06.407] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:32:06.407] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:32:06.871] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:32:07.170] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:07.172] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:32:07.173] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:07.175] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:07.219] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:32:07.385] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:07.386] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:32:07.386] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:07.479] [INFO] default - Testing with Username: test_user, Initial Password: initial_password
+[2024-07-12T22:32:07.668] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:32:07.697] [INFO] default - Password after clearing: 
+[2024-07-12T22:32:07.747] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:07.748] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: initial_password
+[2024-07-12T22:32:07.748] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:07.750] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:07.781] [INFO] default - Testing with Username: another_user, Initial Password: initial_password
+[2024-07-12T22:32:07.877] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:32:07.910] [INFO] default - Password after clearing: 
+[2024-07-12T22:32:07.945] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:07.945] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: initial_password
+[2024-07-12T22:32:07.945] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:08.595] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:32:08.624] [INFO] default - Password after clearing: 
+[2024-07-12T22:32:08.675] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:08.676] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: test_user, Password: initial_password
+[2024-07-12T22:32:08.676] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:08.678] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:08.734] [INFO] default - Testing with Username: another_user, Initial Password: initial_password
+[2024-07-12T22:32:08.817] [INFO] default - Password before clearing: initial_password
+[2024-07-12T22:32:08.841] [INFO] default - Password after clearing: 
+[2024-07-12T22:32:08.872] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:08.872] [ERROR] default - Test failed: Test Login form with empty password - UC-2 - Username: another_user, Password: initial_password
+[2024-07-12T22:32:08.872] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Password is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Password is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:09.340] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:32:09.615] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:09.616] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:32:09.616] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:09.618] [INFO] default - Navigated to Login Page
+[2024-07-12T22:32:09.652] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:32:09.809] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:32:09.809] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:32:09.809] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:32:10.230] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:32:10.466] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:32:10.466] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:34:51.134] [INFO] default - Navigated to Login Page
+[2024-07-12T22:34:51.180] [INFO] default - Navigated to Login Page
+[2024-07-12T22:35:25.594] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1
+[2024-07-12T22:35:25.596] [ERROR] default - Error: Can't call setValue on element with selector "input#user-name" because element wasn't found
+    at async LoginPage.setUsername (/Users/guestuser/Public/saucedemo/test/pageobjects/LoginPage.js:13:9)
+    at async Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:12:5)
+[2024-07-12T22:35:51.134] [ERROR] default - Test failed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:35:51.135] [ERROR] default - Error: Timeout
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2024-07-12T22:35:51.190] [ERROR] default - Test failed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:35:51.191] [ERROR] default - Error: Timeout
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2024-07-12T22:36:51.247] [INFO] default - Navigated to Login Page
+[2024-07-12T22:36:51.248] [INFO] default - Navigated to Login Page
+[2024-07-12T22:36:53.435] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:36:58.487] [ERROR] default - Test failed: Test Login form with empty password - UC-2
+[2024-07-12T22:36:58.487] [ERROR] default - TypeError: LoginPage.clearPasswordWithJS is not a function
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:13:21)
+[2024-07-12T22:37:00.041] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:37:00.042] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:37:00.542] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1
+[2024-07-12T22:37:00.542] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:30:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T22:37:00.746] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1
+[2024-07-12T22:37:00.747] [ERROR] default - AssertionError [ERR_ASSERTION]: 'Epic sadface: Username and password do not match any user in this service' == 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:30:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: '=='
+}
+[2024-07-12T22:37:02.036] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:37:02.295] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:37:02.295] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:37:04.177] [ERROR] default - Test failed: Test Login form with empty password - UC-2
+[2024-07-12T22:37:04.177] [ERROR] default - TypeError: LoginPage.clearPasswordWithJS is not a function
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:13:21)
+[2024-07-12T22:41:27.447] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:27.439] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:27.440] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:27.441] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:27.439] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:27.448] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:31.730] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:41:32.125] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:32.127] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:41:32.127] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:41:32.130] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:32.159] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:41:32.332] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:32.332] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:41:32.332] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:41:33.530] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:41:33.792] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:41:33.792] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:41:34.393] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:41:34.647] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:41:34.647] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:41:36.298] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:41:36.387] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:41:36.629] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:36.631] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:41:36.631] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:41:36.635] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:36.671] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:41:36.721] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:36.722] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:41:36.722] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:41:36.725] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:36.764] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:41:36.881] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:36.882] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:41:36.882] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:41:36.940] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:36.941] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:41:36.941] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:41:39.287] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:41:39.585] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:39.586] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:41:39.586] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:41:39.588] [INFO] default - Navigated to Login Page
+[2024-07-12T22:41:39.614] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:41:39.772] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:41:39.772] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:41:39.772] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:03.640] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:03.647] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:04.710] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:04.710] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:06.511] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:50:06.572] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:50:06.821] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:50:06.821] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:50:06.889] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:06.890] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:50:06.890] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:06.893] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:06.929] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:50:07.095] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:07.096] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:50:07.096] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:08.029] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:50:08.210] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:50:08.268] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:50:08.269] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:50:08.496] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:08.497] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:50:08.497] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:08.499] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:08.524] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:50:08.682] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:08.683] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:50:08.683] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:43.563] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:43.567] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:43.573] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:43.820] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:43.826] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:43.825] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:46.482] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:50:46.780] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:46.781] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:50:46.781] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:32:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:46.784] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:46.826] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:50:46.969] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:46.969] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:50:46.970] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:32:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:47.338] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:50:47.577] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:50:47.577] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:50:47.925] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:50:48.003] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:50:48.184] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:48.185] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:50:48.185] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:32:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:48.187] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:48.217] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:50:48.300] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:48.301] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:50:48.301] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:48.303] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:48.337] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:50:48.394] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:48.394] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:50:48.394] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:32:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:48.553] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:48.553] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:50:48.553] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:49.094] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:50:49.384] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:49.385] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:50:49.385] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:49.387] [INFO] default - Navigated to Login Page
+[2024-07-12T22:50:49.424] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:50:49.581] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:50:49.581] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:50:49.581] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:50:50.365] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:50:50.610] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:50:50.610] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:54:06.793] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:06.801] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:06.798] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:07.064] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:07.077] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:07.065] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:10.534] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:54:10.794] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:54:10.795] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:54:11.537] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:54:11.545] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:54:11.545] [ERROR] default - TypeError: LoginPage.setPasswordJS is not a function
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:17:21)
+[2024-07-12T22:54:11.546] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:11.575] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:54:11.579] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:54:11.579] [ERROR] default - TypeError: LoginPage.setPasswordJS is not a function
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:17:21)
+[2024-07-12T22:54:11.961] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:54:12.274] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:54:12.275] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:54:12.275] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:54:12.278] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:12.314] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:54:12.315] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:54:12.383] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:54:12.631] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:54:12.631] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:54:12.632] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:54:12.743] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:54:12.744] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:54:12.811] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:54:12.811] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:54:12.812] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:54:12.814] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:12.839] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:54:13.006] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:54:13.006] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:54:13.006] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:54:15.227] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:54:15.236] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:54:15.236] [ERROR] default - TypeError: LoginPage.setPasswordJS is not a function
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:17:21)
+[2024-07-12T22:54:15.237] [INFO] default - Navigated to Login Page
+[2024-07-12T22:54:15.278] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:54:15.282] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:54:15.282] [ERROR] default - TypeError: LoginPage.setPasswordJS is not a function
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc1.js:17:21)
+[2024-07-12T22:55:52.287] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:52.843] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:55:53.176] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:53.185] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:53.879] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:53.882] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:53.885] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:54.472] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:55:54.473] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:55:54.473] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:54.508] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:55:54.565] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:55:54.565] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:55:56.966] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:55:57.068] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:55:57.069] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:55:57.069] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:57.101] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:55:57.208] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T22:55:57.209] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:55:57.768] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:55:57.986] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:55:58.013] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:55:58.014] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:55:58.272] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:55:58.273] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:55:58.273] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:55:58.275] [INFO] default - Navigated to Login Page
+[2024-07-12T22:55:58.309] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:55:58.474] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:55:58.475] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:55:58.475] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:56:00.683] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T22:56:00.736] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T22:56:00.964] [INFO] default - Page title: Swag Labs
+[2024-07-12T22:56:00.964] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T22:56:01.049] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:56:01.049] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T22:56:01.050] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T22:56:01.052] [INFO] default - Navigated to Login Page
+[2024-07-12T22:56:01.076] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T22:56:01.234] [INFO] default - Error message: Epic sadface: Username and password do not match any user in this service
+[2024-07-12T22:56:01.234] [ERROR] default - Test failed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T22:56:01.234] [ERROR] default - AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'Epic sadface: Username and password do not match any user in this service'
+- 'Epic sadface: Username is required'
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:36:12) {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'Epic sadface: Username and password do not match any user in this service',
+  expected: 'Epic sadface: Username is required',
+  operator: 'strictEqual'
+}
+[2024-07-12T23:04:30.053] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:30.815] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:30.867] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:31.331] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:04:31.906] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:31.921] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:31.933] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:32.033] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:04:32.382] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:04:32.382] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:04:34.526] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:04:34.639] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:04:34.640] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:04:34.641] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:34.681] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:04:34.741] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:04:34.741] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T23:04:36.371] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:04:39.907] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:04:40.170] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:04:40.171] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:04:40.417] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:04:40.417] [ERROR] default - Error: Expected input fields to be cleared
+    at async LoginPage.waitForClearFields (/Users/guestuser/Public/saucedemo/test/pageobjects/LoginPage.js:76:9)
+    at async Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:23:5)
+[2024-07-12T23:04:40.421] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:40.474] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:04:41.402] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:04:41.402] [ERROR] default - Error: Expected input fields to be cleared
+    at async LoginPage.waitForClearFields (/Users/guestuser/Public/saucedemo/test/pageobjects/LoginPage.js:76:9)
+    at async Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:23:5)
+[2024-07-12T23:04:41.405] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:41.495] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:04:44.725] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:04:44.831] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:04:44.831] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:04:44.832] [INFO] default - Navigated to Login Page
+[2024-07-12T23:04:44.868] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:04:44.925] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:04:44.925] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T23:04:45.497] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:04:45.497] [ERROR] default - Error: Expected input fields to be cleared
+    at async LoginPage.waitForClearFields (/Users/guestuser/Public/saucedemo/test/pageobjects/LoginPage.js:76:9)
+    at async Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:23:5)
+[2024-07-12T23:04:46.516] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:04:46.517] [ERROR] default - Error: Expected input fields to be cleared
+    at async LoginPage.waitForClearFields (/Users/guestuser/Public/saucedemo/test/pageobjects/LoginPage.js:76:9)
+    at async Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:23:5)
+[2024-07-12T23:09:44.554] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:44.555] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:44.554] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:44.606] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:44.607] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:44.631] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:48.188] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:09:48.480] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:09:48.481] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:09:48.950] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:09:48.984] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:09:48.984] [ERROR] default - ReferenceError: passwordValue is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:24:18)
+[2024-07-12T23:09:48.985] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:49.059] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:09:49.086] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:09:49.086] [ERROR] default - ReferenceError: passwordValue is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:24:18)
+[2024-07-12T23:09:49.233] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:09:49.463] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:09:49.463] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:09:49.676] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:09:49.778] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:09:49.778] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:09:49.781] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:49.826] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:09:49.904] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:09:49.904] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T23:09:50.863] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:09:50.911] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:09:50.911] [ERROR] default - ReferenceError: passwordValue is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:24:18)
+[2024-07-12T23:09:50.912] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:50.942] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:09:50.963] [ERROR] default - Test failed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:09:50.963] [ERROR] default - ReferenceError: passwordValue is not defined
+    at Context.<anonymous> (/Users/guestuser/Public/saucedemo/test/specs/test_uc2.js:24:18)
+[2024-07-12T23:09:51.931] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:09:52.127] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:09:52.127] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:09:52.127] [INFO] default - Navigated to Login Page
+[2024-07-12T23:09:52.154] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:09:52.214] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:09:52.214] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T23:15:01.190] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:01.194] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:01.198] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:01.192] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:01.198] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:01.189] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:04.479] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:15:04.747] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:15:04.748] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:15:06.041] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:15:06.132] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:06.132] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:15:06.133] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:06.166] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:15:06.221] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:06.221] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:15:06.874] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:15:07.100] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:15:07.100] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:15:07.117] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:15:07.202] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:07.203] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:15:07.203] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:07.235] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:15:07.294] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:07.294] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T23:15:08.190] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:15:08.290] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:08.290] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:15:08.290] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:08.316] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:15:08.369] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:08.369] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:15:08.698] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:15:08.806] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:08.806] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:15:08.807] [INFO] default - Navigated to Login Page
+[2024-07-12T23:15:08.832] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:15:08.889] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:15:08.889] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T23:18:53.497] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:53.502] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:53.501] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:53.556] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:53.558] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:53.559] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:56.975] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:18:57.113] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:18:57.113] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:18:57.113] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:57.148] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:18:57.200] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:18:57.200] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:18:58.155] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:18:58.255] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:18:58.663] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:18:58.689] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:18:58.690] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:18:58.826] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:18:58.826] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-12T23:18:58.827] [INFO] default - Navigated to Login Page
+[2024-07-12T23:18:58.853] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:18:58.937] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:18:58.937] [INFO] default - Test passed:  Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-12T23:18:59.372] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-12T23:18:59.640] [INFO] default - Page title: Swag Labs
+[2024-07-12T23:18:59.640] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-12T23:19:01.150] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:19:01.151] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:19:01.151] [INFO] default - Navigated to Login Page
+[2024-07-12T23:19:01.177] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:19:01.238] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:19:01.238] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-12T23:19:02.006] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-12T23:19:02.116] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:19:02.116] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-12T23:19:02.117] [INFO] default - Navigated to Login Page
+[2024-07-12T23:19:02.149] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-12T23:19:02.203] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-12T23:19:02.203] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password

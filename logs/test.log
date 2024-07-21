@@ -1636,3 +1636,217 @@
 [2024-07-12T23:19:02.149] [INFO] default - Testing with Username: another_user, Password: another_password
 [2024-07-12T23:19:02.203] [INFO] default - Error message: Epic sadface: Username is required
 [2024-07-12T23:19:02.203] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T20:27:14.988] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:15.823] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:16.253] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T20:27:16.263] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:16.884] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T20:27:17.013] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:17.021] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:17.026] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:17.080] [INFO] default - Page title: Swag Labs
+[2024-07-21T20:27:17.081] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T20:27:17.215] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:17.215] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T20:27:17.219] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:17.225] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T20:27:17.270] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T20:27:17.362] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T20:27:17.382] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:17.382] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T20:27:17.530] [INFO] default - Page title: Swag Labs
+[2024-07-21T20:27:17.530] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T20:27:17.931] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T20:27:18.025] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:18.025] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T20:27:18.026] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:18.056] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T20:27:18.117] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T20:27:18.173] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:18.173] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T20:27:18.190] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:18.190] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T20:27:18.194] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:18.232] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T20:27:18.292] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:18.292] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T20:27:18.293] [INFO] default - Navigated to Login Page
+[2024-07-21T20:27:18.315] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:18.316] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T20:27:18.332] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T20:27:18.390] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T20:27:18.390] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:07:31.640] [INFO] default - Before Test Hook
+[2024-07-21T22:07:31.645] [INFO] default - Before Test Hook
+[2024-07-21T22:07:31.684] [INFO] default - Before Test Hook
+[2024-07-21T22:07:31.681] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:31.674] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:31.690] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:32.075] [INFO] default - Before Test Hook
+[2024-07-21T22:07:32.076] [INFO] default - Before Test Hook
+[2024-07-21T22:07:32.081] [INFO] default - Before Test Hook
+[2024-07-21T22:07:32.079] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:32.079] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:32.085] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:32.310] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:07:32.881] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T22:07:32.944] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:07:33.209] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.210] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:07:33.211] [INFO] default - Before Test Hook
+[2024-07-21T22:07:33.211] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:33.264] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:07:33.269] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:07:33.270] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:07:33.270] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T22:07:33.314] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.315] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:07:33.317] [INFO] default - Before Test Hook
+[2024-07-21T22:07:33.317] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:33.355] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:07:33.500] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.502] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:07:33.507] [INFO] default - After All Tests Hook
+[2024-07-21T22:07:33.612] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.613] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:07:33.615] [INFO] default - Before Test Hook
+[2024-07-21T22:07:33.616] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:33.626] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.626] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:07:33.628] [INFO] default - Before Test Hook
+[2024-07-21T22:07:33.629] [INFO] default - Navigated to Login Page
+[2024-07-21T22:07:33.655] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.656] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:07:33.672] [INFO] default - After All Tests Hook
+[2024-07-21T22:07:33.705] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:07:33.710] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:07:33.722] [INFO] default - Page title: Swag Labs
+[2024-07-21T22:07:33.723] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:07:33.724] [INFO] default - After All Tests Hook
+[2024-07-21T22:07:33.824] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.825] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:07:33.826] [INFO] default - After All Tests Hook
+[2024-07-21T22:07:33.834] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:07:33.835] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:07:33.837] [INFO] default - After All Tests Hook
+[2024-07-21T22:07:33.892] [INFO] default - Page title: Swag Labs
+[2024-07-21T22:07:33.893] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:07:33.897] [INFO] default - After All Tests Hook
+[2024-07-21T22:30:00.270] [INFO] default - Before Test Hook - starting test: UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:30:00.270] [INFO] default - Before Test Hook - starting test: UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:30:00.272] [INFO] default - Before Test Hook - starting test: UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:30:00.688] [INFO] default - Opened the login page
+[2024-07-21T22:30:00.688] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T22:30:01.307] [INFO] default - Opened the login page
+[2024-07-21T22:30:01.308] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:30:01.316] [INFO] default - Opened the login page
+[2024-07-21T22:30:01.317] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:30:01.451] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:01.451] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:30:01.452] [INFO] default - Before Test Hook - starting test: UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:30:01.462] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:01.463] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:30:01.464] [INFO] default - Before Test Hook - starting test: UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:30:01.493] [INFO] default - Opened the login page
+[2024-07-21T22:30:01.493] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:30:01.524] [INFO] default - Opened the login page
+[2024-07-21T22:30:01.524] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:30:01.669] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:01.669] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:30:01.670] [INFO] default - After All Tests Hook
+[2024-07-21T22:30:01.691] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:01.691] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:30:01.692] [INFO] default - After All Tests Hook
+[2024-07-21T22:30:01.725] [INFO] default - Page title: Swag Labs
+[2024-07-21T22:30:01.726] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:30:01.727] [INFO] default - After All Tests Hook
+[2024-07-21T22:30:06.861] [INFO] default - Before Test Hook - starting test: UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:30:06.862] [INFO] default - Before Test Hook - starting test: UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:30:06.873] [INFO] default - Before Test Hook - starting test: UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:30:07.862] [INFO] default - Opened the login page
+[2024-07-21T22:30:07.864] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T22:30:07.908] [INFO] default - Opened the login page
+[2024-07-21T22:30:07.909] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:30:07.929] [INFO] default - Opened the login page
+[2024-07-21T22:30:07.929] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:30:08.051] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:08.050] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:08.051] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:30:08.051] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:30:08.052] [INFO] default - Before Test Hook - starting test: UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:30:08.053] [INFO] default - Before Test Hook - starting test: UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:30:08.135] [INFO] default - Opened the login page
+[2024-07-21T22:30:08.164] [INFO] default - Opened the login page
+[2024-07-21T22:30:08.135] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:30:08.164] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:30:08.265] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:08.265] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:30:08.265] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:30:08.265] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:30:08.266] [INFO] default - After All Tests Hook
+[2024-07-21T22:30:08.266] [INFO] default - After All Tests Hook
+[2024-07-21T22:30:08.301] [INFO] default - Page title: Swag Labs
+[2024-07-21T22:30:08.301] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:30:08.302] [INFO] default - After All Tests Hook
+[2024-07-21T22:42:44.463] [INFO] default - Starting test : UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:42:44.464] [INFO] default - Starting test : UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:42:44.466] [INFO] default - Starting test : UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:42:44.592] [INFO] default - Starting test : UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:42:44.599] [INFO] default - Starting test : UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:42:44.598] [INFO] default - Starting test : UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:42:44.945] [INFO] default - Opened the login page
+[2024-07-21T22:42:44.948] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T22:42:45.665] [INFO] default - Opened the login page
+[2024-07-21T22:42:45.666] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:42:45.687] [INFO] default - Opened the login page
+[2024-07-21T22:42:45.688] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:42:45.819] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:45.819] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:45.820] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:42:45.820] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:42:45.820] [INFO] default - Starting test : UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:42:45.820] [INFO] default - Starting test : UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:42:45.864] [INFO] default - Opened the login page
+[2024-07-21T22:42:45.864] [INFO] default - Opened the login page
+[2024-07-21T22:42:45.865] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:42:45.865] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:42:46.064] [INFO] default - Opened the login page
+[2024-07-21T22:42:46.066] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:42:46.087] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:46.087] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:42:46.091] [INFO] default - Clearing cash after tests execution
+[2024-07-21T22:42:46.139] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:46.139] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:42:46.141] [INFO] default - Clearing cash after tests execution
+[2024-07-21T22:42:46.144] [INFO] default - Cleared cookies, local storage, and session storage
+[2024-07-21T22:42:46.176] [INFO] default - Cleared cookies, local storage, and session storage
+[2024-07-21T22:42:46.231] [INFO] default - Opened the login page
+[2024-07-21T22:42:46.232] [INFO] default - Testing with Username: test_user, Password: test_password
+[2024-07-21T22:42:46.320] [INFO] default - Opened the login page
+[2024-07-21T22:42:46.321] [INFO] default - Testing with Username: standard_user, Password: secret_sauce
+[2024-07-21T22:42:46.357] [INFO] default - Page title: Swag Labs
+[2024-07-21T22:42:46.364] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:46.360] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:42:46.365] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: test_user, Password: test_password
+[2024-07-21T22:42:46.376] [INFO] default - Starting test : UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:42:46.376] [INFO] default - Clearing cash after tests execution
+[2024-07-21T22:42:46.428] [INFO] default - Cleared cookies, local storage, and session storage
+[2024-07-21T22:42:46.428] [INFO] default - Opened the login page
+[2024-07-21T22:42:46.428] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:42:46.456] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:46.456] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: test_user, Password: test_password
+[2024-07-21T22:42:46.458] [INFO] default - Starting test : UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:42:46.502] [INFO] default - Opened the login page
+[2024-07-21T22:42:46.502] [INFO] default - Testing with Username: another_user, Password: another_password
+[2024-07-21T22:42:46.558] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:46.558] [INFO] default - Test passed: Test Login form with credentials by passing Username - UC-2 - Username: another_user, Password: another_password
+[2024-07-21T22:42:46.559] [INFO] default - Clearing cash after tests execution
+[2024-07-21T22:42:46.575] [INFO] default - Cleared cookies, local storage, and session storage
+[2024-07-21T22:42:46.614] [INFO] default - Error message: Epic sadface: Username is required
+[2024-07-21T22:42:46.614] [INFO] default - Test passed: Test Login form with empty credentials - UC-1 - Username: another_user, Password: another_password
+[2024-07-21T22:42:46.615] [INFO] default - Clearing cash after tests execution
+[2024-07-21T22:42:46.627] [INFO] default - Cleared cookies, local storage, and session storage
+[2024-07-21T22:42:46.701] [INFO] default - Page title: Swag Labs
+[2024-07-21T22:42:46.701] [INFO] default - Test passed: Test Login form with credentials by passing Username & Password - UC-3 - Username: standard_user, Password: secret_sauce
+[2024-07-21T22:42:46.702] [INFO] default - Clearing cash after tests execution
+[2024-07-21T22:42:46.715] [INFO] default - Cleared cookies, local storage, and session storage

@@ -1,16 +1,10 @@
 const LoginPage = require('../pageobjects/LoginPage');
 const assert = require('assert');
 const each = require('mocha-each');
+const { emptyCredentials } = require('../testData/loginTestData');
 
 describe('Test Login form with empty credentials', () => {
-  const testData = [
-    ['test_user', 'test_password', 'Epic sadface: Username is required'],
-    ['another_user', 'another_password', 'Epic sadface: Username is required']
-  ];
-
-  each(testData).it('UC-1 - Username: %s, Password: %s', async (username, password, expectedErrorMessage) => {
-    logger.info('Navigated to Login Page');
-    await LoginPage.open();
+  each(emptyCredentials).it('UC-1 - Username: %s, Password: %s', async (username, password, expectedErrorMessage) => {
 
     logger.info(`Testing with Username: ${username}, Password: ${password}`);
     await LoginPage.setUsernameJs(username);
@@ -32,4 +26,3 @@ describe('Test Login form with empty credentials', () => {
     assert.strictEqual(errorMessage, expectedErrorMessage);
   });
 });
-

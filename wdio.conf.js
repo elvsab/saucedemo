@@ -53,6 +53,11 @@ exports.config = {
     before: function (capabilities, specs) {
         global.logger = logger;
     },
+    beforeTest: async function (test, context) {
+      logger.info(`Starting test : ${test.title}`);
+      await browser.url('https://www.saucedemo.com/');
+      logger.info('Opened the login page');
+    },
     afterTest: function (test, context, { error, result, duration, passed, retries }) {
         if (passed) {
           logger.info(`Test passed: ${test.parent} - ${test.title}`);
@@ -60,5 +65,14 @@ exports.config = {
           logger.error(`Test failed: ${test.parent} - ${test.title}`);
           logger.error(error);
         }
+    },
+    after: async function (result, capabilities, specs) {
+      logger.info('Clearing cash after tests execution');
+      
+      await browser.deleteAllCookies();
+      await browser.execute('window.localStorage.clear();');
+      await browser.execute('window.sessionStorage.clear();');
+  
+      logger.info('Cleared cookies, local storage, and session storage');
     }
 }
